@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/src/VariateToQSettings.pro.user
+build-VariateToQSettings-Desktop_Qt_5_9_3_MSVC2015_64bit-Debug
