@@ -49,13 +49,13 @@ settings.endGroup();
 ```
 
 大概的界面就是这样的；
-![](https://github.com/bao-boyle/VariateToQSettings/screenshot/1.png) 
+![](https://github.com/bao-boyle/VariateToQSettings/raw/master/screenshot/1.png) 
 
 支持基本的数据类型，还支持结构体，复杂的未考虑。
-![](https://github.com/bao-boyle/VariateToQSettings/screenshot/2.png) 
+![](https://github.com/bao-boyle/VariateToQSettings/raw/master/screenshot/2.png) 
 
 Gif演示
-![](https://github.com/bao-boyle/VariateToQSettings/screenshot/3.gif) 
+![](https://github.com/bao-boyle/VariateToQSettings/raw/master/screenshot/3.gif) 
 
 我们只需要复制变量的声明代码，就可以一键生成QSettings 的setValue和value 的代码
 是不是很方便呢？欢迎大家使用和优化。
